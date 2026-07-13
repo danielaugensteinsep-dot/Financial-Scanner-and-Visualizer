@@ -1,4 +1,4 @@
-# Financial-Scanner-and-Visualizer
+
 # Financial Scanner and Visualizer
 
 A Python-based analysis tool that retrieves real-time corporate financial data to calculate automated risk scores and visualize peer-to-peer comparisons.
