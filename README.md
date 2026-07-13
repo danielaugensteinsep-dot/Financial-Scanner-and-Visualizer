@@ -7,7 +7,7 @@ A Python-based analysis tool that retrieves real-time corporate financial data t
 This project is designed to process multiple stock tickers simultaneously. It extracts key balance sheet metrics, scores the financial health of each company, and displays the results in both a data table and a visual dashboard.
 
 ## Key Features
-* **Live Data Extraction:** Retrieves real-time corporate financial metrics (such as Profit Margin, Debt-to-Equity, and Current Ratio) using the Yahoo Finance API.
+* **Live Data Extraction:** Retrieves real-time corporate financial metrics (such as Profit Margin, Debt-to-Equity and Current Ratio) using the Yahoo Finance API.
 * **Batch Processing:** Accepts multiple company tickers at the same time and organizes the extracted data into a sorted Pandas DataFrame.
 * **Automated Risk Scoring:** Evaluates the data against standard financial thresholds to assign a 0-4 "Health Score" to each company.
 * **Data Visualization:** Generates a 1x3 analytical dashboard using Matplotlib and Seaborn.
